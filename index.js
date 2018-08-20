@@ -1,5 +1,5 @@
 // Write your code in this file!
-var currentUser ;
+let currentUser = "Makak" ;
 const welcomeMessage = "Welcome to Flatbook, "+currentUser+"!";
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 const shortGreeting = "Welcome, "+currentUser.charAt(0)+"!";
